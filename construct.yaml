@@ -78,6 +78,13 @@ events:
 hooks:
   post_install: scripts/install.sh
 
+governs:
+  - herald
+  - social-oracle
+  - gtm-collective
+  - growthpages
+  - observer
+  - artisan
 pack_dependencies: {}
 
 capabilities:

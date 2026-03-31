@@ -2,7 +2,7 @@ schema_version: 3
 name: Vocabulary Bank
 slug: vocabulary-bank
 version: 0.1.0
-description: "One vocabulary per product, three tiers: chain-standard (never rename), earned (discovered through use), reserved (not yet deployed). Consistent voice across Discord, docs, UI, and social. Anchored words stick. White space creates meaning. Gravity accumulates through use."
+description: "Manage your product's word list so everyone uses the same terms. Define which words are permanent, which are new, and which are reserved. Keeps copy consistent across Discord, docs, UI, and social channels. Audit your content for off-brand language."
 short_description: "One voice, many channels"
 long_description: |
   A structural constraint for vocabulary governance across products and channels.

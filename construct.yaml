@@ -2,8 +2,8 @@ schema_version: 3
 name: Vocabulary Bank
 slug: vocabulary-bank
 version: 0.1.0
-description: "Per-product vocabulary governance with tiered lexicons, register-aware channel mapping, and the Anchor-Space-Gravity philosophy. Structural constraint for consistent voice across channels and products."
-short_description: "Vocabulary governance — tiered lexicons, register-aware channels"
+description: "One vocabulary per product, three tiers: chain-standard (never rename), earned (discovered through use), reserved (not yet deployed). Consistent voice across Discord, docs, UI, and social. Anchored words stick. White space creates meaning. Gravity accumulates through use."
+short_description: "One voice, many channels"
 long_description: |
   A structural constraint for vocabulary governance across products and channels.
 
